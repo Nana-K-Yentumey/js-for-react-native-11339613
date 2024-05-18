@@ -5,7 +5,7 @@ function createUserProfiles(originalNames, modifiedNames) {
         const profile = {
             originalName: originalNames[i],
             modifiedName: modifiedNames[i],
-            id: i + 1, // Start counting from 1
+            id: i + 1,
         };
         profiles.push(profile);
     }
