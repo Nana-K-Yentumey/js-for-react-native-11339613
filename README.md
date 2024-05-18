@@ -6,9 +6,9 @@
 
 ## TASK 1:
 
-    The JavaScript function, **processArray**, takes an array of numbers as input (**args**). It creates an empty array called **outcome**. 
+    The JavaScript function, `processArray`, takes an array of numbers as input (`args`). It creates an empty array called `outcome`. 
     
-    It then iterates over each number in the input array using a **for...of** loop. 
+    It then iterates over each number in the input array using a `for...of` loop. 
     
     If the number is even, it squares the number and pushes it into the **outcome** array. 
     
